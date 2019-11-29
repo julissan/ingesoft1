@@ -19,7 +19,7 @@ a {
 
 .wrapp {
 	max-width: 1000px;
-	width:100px;
+	width:80%;
 	margin:auto;
 	overflow: hidden;
 }

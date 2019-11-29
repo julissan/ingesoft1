@@ -21,7 +21,7 @@ a {
 	max-width: 1000px;
 	width:100px;
 	margin:auto;
-	overflow: auto;
+	overflow: hidden;
 }
 
 header {
@@ -39,7 +39,7 @@ header {
 
 .logo img {
 	width:120px;
-	vertical-align: bottom;
+	vertical-align: top;
 }
 
 nav {
